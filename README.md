@@ -19,9 +19,9 @@ expressjs-load-routes-dynamically
 /app/user/:id (GET | PUT | DELETE)
 
 
-/app/invoive (GET | POST)
+/app/invoice (GET | POST)
 
-/app/invoive/:id (GET | PUT | DELETE)
+/app/invoice/:id (GET | PUT | DELETE)
 
 
 #### How to install
