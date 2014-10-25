@@ -1,7 +1,7 @@
 expressjs-load-routes-dynamically
 =================================
 
-Available route
+#### Available routes
 
 / (GET)
 /home (GET)
@@ -15,11 +15,15 @@ Available route
 /app/invoive (GET|POST)
 /app/invoive/:id (GET|PUT|DELETE)
 
-How to install
+#### How to install
 
 Using you have npm and Node.js installed on your  machine
 
-Run
+#### Run
+```bash
+$> npm install
+$> node app
+```
 npm install
 node app
 
