@@ -26,7 +26,7 @@ expressjs-load-routes-dynamically
 
 #### How to install
 
-Using you have npm and Node.js installed on your  machine
+Assuming you have npm and Node.js installed on your  machine
 
 #### Run
 ```bash
