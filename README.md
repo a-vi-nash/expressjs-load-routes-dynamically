@@ -24,8 +24,7 @@ Using you have npm and Node.js installed on your  machine
 $> npm install
 $> node app
 ```
-npm install
-node app
 
 Link
+
 http://localhost:85
