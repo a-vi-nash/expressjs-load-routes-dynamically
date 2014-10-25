@@ -1,0 +1,28 @@
+{
+  "name": "expressjs-load-routes-dynamically",
+  "version": "0.0.0",
+  "description": "This simple project was created to give extra support to the article presents on http://www.mquintal.com/blog/how-to-structure-expressjs-routes/.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mquintal/expressjs-load-routes-dynamically.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "routes",
+    "javascript"
+  ],
+  "author": "Miguel Quintal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mquintal/expressjs-load-routes-dynamically/issues"
+  },
+  "homepage": "https://github.com/mquintal/expressjs-load-routes-dynamically",
+  "dependencies": {
+    "express": "^4.10.0"
+  }
+}
