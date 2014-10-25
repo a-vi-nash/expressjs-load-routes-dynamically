@@ -1,7 +1,7 @@
 module.exports = function( app ) {
 	var express = require( 'express' )
 	  , router = express.Router()
-	  , controller = require( '../../demo-controller' )(); 
+	  , controller = require( '../../controllers/demo-controller' )(); 
 
 	router
 		.route( '/' )
@@ -14,5 +14,5 @@ module.exports = function( app ) {
 		.put( controller.genericResponse ) // update
 		.delete( controller.genericResponse ); // delete
 
-	app.use( '/app/invoive', router );
+	app.use( '/app/invoice', router );
 };

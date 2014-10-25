@@ -1,7 +1,7 @@
 module.exports = function( app ) {
     var express = require( "express" )
       , router = express.Router()
-      , controller = require( '../demo-controller' )();
+      , controller = require( '../controllers/demo-controller' )();
     
     // Possible public routes.
     router.get( '/', controller.genericResponse );
