@@ -14,14 +14,14 @@ expressjs-load-routes-dynamically
 /clients (GET)
 
 
-/app/user (GET|POST)
+/app/user (GET | POST)
 
-/app/user/:id (GET|PUT|DELETE)
+/app/user/:id (GET | PUT | DELETE)
 
 
-/app/invoive (GET|POST)
+/app/invoive (GET | POST)
 
-/app/invoive/:id (GET|PUT|DELETE)
+/app/invoive/:id (GET | PUT | DELETE)
 
 
 #### How to install
